@@ -8,4 +8,4 @@ export default defineConfig({
     environment: 'jsdom',
     globals: true,
   },
-})git checkout -b feature/add-deploy
+})
